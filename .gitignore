@@ -1,0 +1,14 @@
+/build
+target/
+/.idea
+.idea
+*.iml
+.DS_Store
+local.properties
+release.properties
+*.releaseBackup
+.project
+.classpath
+.settings
+catalina.base_IS_UNDEFINED
+log.path_IS_UNDEFINED
