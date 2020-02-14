@@ -6,6 +6,7 @@ import org.apache.hadoop.fs.Path;
 
 
 /**
+ * 操作HDFS的案例
  * @author licjd
  * @date 2020/1/15 11:27
  */
